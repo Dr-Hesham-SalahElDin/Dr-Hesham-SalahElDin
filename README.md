@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm an Electronics Engineer with professional experience in designing and programming microcontroller-based systems. 
+Operating under the name "HSns Electronics," I manage projects from conception through final testing, excelling in system and product design, PCB design, firmware programming, HMI design. My expertise spans industrial control, scientific devices, and health-related devices, ensuring tailored, high-quality, and cost-effective solutions.
+
+- Programming Languages: C, Embedded C, Java.
+- Software Tools: KiCad PCB Design Suite, STM32CubeIDE, Eclipse IDE, Netbeans IDE, MPLAB IDE, Scilab, NGSpice Simulator, LibreCAD, Genius TCAD Simulator, Linux OS (Ubuntu)
+- Debugging Instruments: Digital Storage Oscilloscope, Arbitrary Function Generator, Regulated Power Supply, Multimeter, Cable Tester
+- Core Skills: Self-Motivated, Self-Learning, Independent and Team Working
 
 <!--
 **Dr-Hesham-SalahElDin/Dr-Hesham-SalahElDin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
